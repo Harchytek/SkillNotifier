@@ -8,7 +8,6 @@ A highly customizable mod that displays real-time, clean, and color-coded XP not
 * **Highly configurable** : Full control over Visibility, Texts, Position, Symbols, and Colors.
 * **Notification Filtering** : Includes a built-in option to ignore "run" notifications.
 * **Global Progression** : Optional display of your character's Total Level across all skills.
-* **Smart Layout** : Customize position (before/after) for better readability.
 
 ### Default 
 
