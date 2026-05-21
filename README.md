@@ -2,13 +2,15 @@
 
 A highly customizable mod that displays real-time, clean, and color-coded XP notifications for your skills.
 
+<p align="left"><img src="https://i.imgur.com/TxERk1Y.png" alt="SkillNotifier" width="420"></p>
+
 ## Features
 
 * **Auto-translate** : The skill names are translated into your game's language.
-* **Highly configurable** : Full control over Visibility, Texts, Position, Symbols, and Colors.
 * **Notification Filtering** : Includes a built-in option to ignore "run" notifications.
 * **Global Progression** : Optional display of your character's Total Level across all skills.
-
+* **Highly configurable** : Full control over Visibility, Texts, Position, Symbols, and Colors.
+##
 ### Default 
 
 ![Default](https://imgur.com/BHOy62y.png)
@@ -33,7 +35,7 @@ A highly customizable mod that displays real-time, clean, and color-coded XP not
 
 ![Colors](https://imgur.com/stQieIG.png)
 
-*Thanks Stegodon for the tests and the screenshot.*
+*Thanks Stegodon for the screenshots.*
 
 ## Installation
 1. Install [BepInExPack Valheim](https://valheim.thunderstore.io/package/denikson/BepInExPack_Valheim/).
@@ -51,4 +53,4 @@ modify settings in-game.
 
 If you have any suggestions or need help, you can contact me on Discord.
 
-`Discord:` Harchytek#5056
+`Discord:` ![Discord](https://raw.githubusercontent.com/Harchytek/HudStar/main/docs/Images/HarchytekDiscordMini.png) Harchytek#5056
