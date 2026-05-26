@@ -53,4 +53,4 @@ modify settings in-game.
 
 If you have any suggestions or need help, you can contact me on Discord.
 
-`Discord:` ![Discord](https://raw.githubusercontent.com/Harchytek/HudStar/main/docs/Images/HarchytekDiscordMini.png) Harchytek#5056
+`Discord:` Harchytek#5056
