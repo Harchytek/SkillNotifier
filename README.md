@@ -2,7 +2,7 @@
 
 A highly customizable mod that displays real-time, clean, and color-coded XP notifications for your skills.
 
-<p align="left"><img src="https://i.imgur.com/TxERk1Y.png" alt="SkillNotifier" width="420"></p>
+<p align="left"><img src="https://imgur.com/ED2duAb.png" alt="SkillNotifier" width="510"></p>
 
 ## Features
 
@@ -11,7 +11,6 @@ A highly customizable mod that displays real-time, clean, and color-coded XP not
 * **Global Progression** : Optional display of your character's Total Level across all skills.
 * **Highly configurable** : Full control over Visibility, Texts, Position, Symbols, and Colors.
 ##
-
 ### Default 
 
 ![Default](https://imgur.com/BHOy62y.png)
