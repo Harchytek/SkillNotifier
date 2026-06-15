@@ -51,6 +51,8 @@ modify settings in-game.
 
 ## About myself
 
-If you have any suggestions or need help, you can contact me on Discord.
+If you have any suggestions or need help, you can contact me on Github.
 
-`Discord:` Harchytek#5056
+I make these mods for my friends and me, but they can be useful to everyone. It's my way of contributing to the Valheim community.
+
+<p align="left"><img src="https://raw.githubusercontent.com/Harchytek/HudStar/main/docs/images/github.png" alt="SkillNotifier" width="50"><strong><a href="https://github.com/Harchytek?tab=repositories">Harchytek</a></strong></p>
